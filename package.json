@@ -51,7 +51,7 @@
     "@wagmi/test": "workspace:*",
     "bun": "^1.1.29",
     "glob": "^10.4.5",
-    "happy-dom": "^15.7.4",
+    "happy-dom": "^15.10.2",
     "knip": "^5.30.6",
     "prool": "^0.0.16",
     "publint": "^0.2.11",
